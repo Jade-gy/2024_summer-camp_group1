@@ -6,7 +6,7 @@
 - **熊怀信**，昌平二中，初一，网页设计员  
 - **佟画**，15中南口学校，初二，讲解员
 
-**[AI风暴组的Vlog](http://xhslink.com/gLw2qP)**
+# **[AI风暴组的Vlog](http://xhslink.com/gLw2qP)**
 
 ## 笔记  
   
