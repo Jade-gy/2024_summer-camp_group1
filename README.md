@@ -6,10 +6,7 @@
 - **熊怀信**，昌平二中，初一，网页设计员  
 - **佟画**，15中南口学校，初二，讲解员
 
-<video width="720" height="480" controls>  
-  <source src="videos/1.mp4" type="video/mp4">  
-  您的浏览器不支持视频播放。  
-</video>
+![视频](videos/1.mp4)
 
 ## 笔记  
   
